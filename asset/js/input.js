@@ -114,3 +114,5 @@ window.onload = cargarProductos;
     // Recargar la página cuando se hace clic en el botón
     location.reload();
 });
+
+
